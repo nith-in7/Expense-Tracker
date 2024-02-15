@@ -22,5 +22,11 @@ This project relies on the following Flutter packages:
 
 ## Screenshots
 
+![Dark Theme](https://github.com/nith-in7/Expense-Tracker/assets/124262214/53cda7a2-35d4-477b-81bd-9106a9be65ee)
+
+
+![Light Theme](https://github.com/nith-in7/Expense-Tracker/assets/124262214/9053d4e7-fe71-44bd-b4b4-6ea4fbb5aa80)
+
+
 
 
